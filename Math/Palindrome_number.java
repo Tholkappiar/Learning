@@ -1,4 +1,4 @@
-public class Solution {
+public class Palindrome_number {
     public static boolean palindromeNumber(int n){
         
         // int temp = n;

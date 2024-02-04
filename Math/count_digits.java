@@ -1,4 +1,4 @@
-public class Solution {
+public class count_digits {
     public static int countDigits(int n){
 
         int num = n;

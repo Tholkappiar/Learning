@@ -1,4 +1,4 @@
-public class Solution {
+public class Reverse_num {
 	public static long reverseBits(long n) {
 
 		String rev = Long.toBinaryString(n);

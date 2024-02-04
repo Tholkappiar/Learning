@@ -1,4 +1,4 @@
-public class Solution {
+public class isPrimeOrNot {
 	public static String isPrime(int num) {
 		if(num<=1){
 			return "NO";
