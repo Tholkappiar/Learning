@@ -1,0 +1,1 @@
+select (select count(CITY) as total from STATION)- (select count(distinct CITY) as dist from  STATION); 
