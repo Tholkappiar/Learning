@@ -16,7 +16,6 @@ class Solution {
            else if(stack.isEmpty())
                 stack.push(ch);
         }
-
         return stack.size();
     }
 }
